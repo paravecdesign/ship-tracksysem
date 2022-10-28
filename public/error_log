@@ -1,0 +1,1 @@
+[24-Oct-2022 17:23:40 UTC] PHP Fatal error:  Trait "App\Models\Multitenntfilte" not found in /home1/jamruers/app.jamrushcouriers.co/app/Models/Shipper.php on line 30

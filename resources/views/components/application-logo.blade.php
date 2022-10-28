@@ -1,0 +1,1 @@
+<img class="h-16" src="{{ asset('snowpacs-logistics-and-courier-service.jpg') }}" alt="snowpacs logistics and courier service">
